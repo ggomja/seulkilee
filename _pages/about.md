@@ -4,8 +4,20 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+### Seulki Lee 
+- Ph.D student,.. 
+- Jeonbuk National University(JBNU)..
+
+### Fields of Interests:
+- DSGE Macroeconomics..
+- Bayesian Macroeconomics..
+- Housing markets..
 
 
+### Programming skills
+- Matlab..
+- R..
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+### Contacts information:
+- e-mail : jayinj5@jbnu.ac.kr..
+
