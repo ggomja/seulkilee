@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ### Seulki Lee 
-- Ph.D student,
-- Jeonbuk National University(JBNU)
+- Ph.D student, Jeonbuk National University(JBNU)
 
 ### Fields of Interests:
 - DSGE Macroeconomics
